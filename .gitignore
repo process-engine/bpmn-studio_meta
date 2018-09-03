@@ -5,6 +5,7 @@ bpmn-studio_client
 bpmn-io_custom-bundle
 process_engine_runtime
 skeleton
+identity_server
 
 # OSX-finder info-files
 *.DS_Store

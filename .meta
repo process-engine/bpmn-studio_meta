@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "skeleton": "git@github.com:process-engine/skeleton.git",
+    "process_engine_runtime": "git@github.com:process-engine/process_engine_runtime.git",
+    "bpmn-studio_client": "git@github.com:process-engine/bpmn-studio_client.git",
+    "bpmn-io_custom-bundle": "git@github.com:process-engine/bpmn-io_custom-bundle.git",
+    "bpmn-studio": "git@github.com:process-engine/bpmn-studio.git",
+    "identity_server": "git@github.com:process-engine/identity_server.git"
+  }
+}

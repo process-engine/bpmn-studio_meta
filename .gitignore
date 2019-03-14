@@ -6,6 +6,7 @@ metrics
 bpmn-elements_contracts
 bpmn-js-bpmnlint
 bpmn-lint_rules
+bpmn-lint_plugin
 bpmn-io_custom-bundle
 bpmn-studio
 

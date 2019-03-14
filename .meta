@@ -3,6 +3,7 @@
     "bpmn-elements_contracts": "git@github.com:process-engine/bpmn-elements_contracts.git",
     "bpmn-js-bpmnlint": "git@github.com:process-engine/bpmn-js-bpmnlint.git",
     "bpmn-lint_rules": "git@github.com:process-engine/bpmn-lint_rules.git",
+    "bpmn-lint_plugin": "git@github.com:process-engine/bpmn-lint_plugin.git",
     "bpmn-io_custom-bundle": "git@github.com:process-engine/bpmn-io_custom-bundle.git",
     "bpmn-studio": "git@github.com:process-engine/bpmn-studio.git"
   }

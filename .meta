@@ -1,10 +1,9 @@
 {
   "projects": {
-    "skeleton": "git@github.com:process-engine/skeleton.git",
-    "process_engine_runtime": "git@github.com:process-engine/process_engine_runtime.git",
-    "bpmn-studio_client": "git@github.com:process-engine/bpmn-studio_client.git",
+    "bpmn-elements_contracts": "git@github.com:process-engine/bpmn-elements_contracts.git",
+    "bpmn-js-bpmnlint": "git@github.com:process-engine/bpmn-js-bpmnlint.git",
+    "bpmn-lint_rules": "git@github.com:process-engine/bpmn-lint_rules.git",
     "bpmn-io_custom-bundle": "git@github.com:process-engine/bpmn-io_custom-bundle.git",
-    "bpmn-studio": "git@github.com:process-engine/bpmn-studio.git",
-    "identity_server": "git@github.com:process-engine/identity_server.git"
+    "bpmn-studio": "git@github.com:process-engine/bpmn-studio.git"
   }
 }

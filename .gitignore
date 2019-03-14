@@ -1,11 +1,13 @@
 node_modules
+dist
+logs
+metrics
 
-bpmn-studio
-bpmn-studio_client
+bpmn-elements_contracts
+bpmn-js-bpmnlint
+bpmn-lint_rules
 bpmn-io_custom-bundle
-process_engine_runtime
-skeleton
-identity_server
+bpmn-studio
 
 # OSX-finder info-files
 *.DS_Store

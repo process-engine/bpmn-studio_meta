@@ -10,6 +10,10 @@ bpmn-lint_plugin
 bpmn-io_custom-bundle
 bpmn-studio
 
+dynamic_ui_contracts
+dynamic_ui_core
+dynamic_ui_http
+
 # OSX-finder info-files
 *.DS_Store
 

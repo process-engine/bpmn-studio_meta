@@ -10,6 +10,13 @@ bpmn-lint_plugin
 bpmn-io_custom-bundle
 bpmn-studio
 
+solutionexplorer.contracts
+solutionexplorer.service.contracts
+solutionexplorer.repository.contracts
+solutionexplorer.service
+solutionexplorer.repository.filesystem
+solutionexplorer.repository.management_api
+
 dynamic_ui_contracts
 dynamic_ui_core
 dynamic_ui_http

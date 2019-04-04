@@ -8,6 +8,12 @@
     "bpmn-lint_rules": "git@github.com:process-engine/bpmn-lint_rules.git",
     "bpmn-lint_plugin": "git@github.com:process-engine/bpmn-lint_plugin.git",
     "bpmn-io_custom-bundle": "git@github.com:process-engine/bpmn-io_custom-bundle.git",
-    "bpmn-studio": "git@github.com:process-engine/bpmn-studio.git"
+    "bpmn-studio": "git@github.com:process-engine/bpmn-studio.git",
+    "solutionexplorer.contracts": "git@github.com:process-engine/solutionexplorer.contracts.git",
+    "solutionexplorer.service.contracts": "git@github.com:process-engine/solutionexplorer.service.contracts.git",
+    "solutionexplorer.repository.contracts": "git@github.com:process-engine/solutionexplorer.repository.contracts.git",
+    "solutionexplorer.service": "git@github.com:process-engine/solutionexplorer.service.git",
+    "solutionexplorer.repository.filesystem": "git@github.com:process-engine/solutionexplorer.repository.filesystem.git",
+    "solutionexplorer.repository.management_api": "git@github.com:process-engine/solutionexplorer.repository.management_api.git"
   }
 }
